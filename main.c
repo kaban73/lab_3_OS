@@ -83,7 +83,7 @@ void get_page(int logical_add) {
 
     int frameNum = -1;
 
-    for (int i = 0; i < TLB_caches; i++) { // пробуем получить фрейм из tlb
+    for (int i = 0; i < TLB_caches + 1; i++) { // пробуем получить фрейм из tlb
         if (TLB[i].page_number == pageNum) {
             frameNum = TLB[i].frame_number;
             hit++;
