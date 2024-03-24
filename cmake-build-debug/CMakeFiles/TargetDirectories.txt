@@ -1,3 +1,0 @@
-/home/ivankabanov/CLionProjects/lab_3_OS/cmake-build-debug/CMakeFiles/lab_3_OS.dir
-/home/ivankabanov/CLionProjects/lab_3_OS/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ivankabanov/CLionProjects/lab_3_OS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
